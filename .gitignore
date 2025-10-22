@@ -217,3 +217,5 @@ data/
 *.tmp
 *.ipynb_checkpoints
 .DS_Store
+
+Recommendations.md
