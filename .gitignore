@@ -212,10 +212,9 @@ data/
 *.tsv
 *.xlsx
 *.json
+*.pkl
 
 # Ignore temporary or output files
 *.tmp
 *.ipynb_checkpoints
 .DS_Store
-
-Recommendations.md
